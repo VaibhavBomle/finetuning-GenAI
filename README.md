@@ -1,1 +1,3 @@
 # finetuning-GenAI
+# 1. Mistral Finetuning
+-Fine-tuned the Mistral model for Generative AI using PEFT (Parameter-Efficient Fine-Tuning) to enhance text generation capabilities. This approach allowed for efficient adaptation with minimal computational resources while maintaining high model performance. The fine-tuned model excelled in producing contextually rich and high-quality outputs. Optimized hyperparameters and utilized transfer learning techniques to boost generative accuracy. This work demonstrates my proficiency in applying advanced methods like PEFT to optimize AI models for creative content generation.
