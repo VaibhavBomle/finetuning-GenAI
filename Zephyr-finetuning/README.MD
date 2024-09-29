@@ -14,5 +14,5 @@
 5.Inference: The model generates a response to a customer support query using a preprocessed instruction format, and the result is printed.
 
 
-# Line Summary:
+# Summary:
 The code fine-tunes a GPTQ-based model (Zephyr-7B) on a customer support dataset using LoRA via the PEFT framework. After installing dependencies, it processes the dataset and prepares the model for k-bit training. The SFTTrainer is used for fine-tuning, and the final model is uploaded to the Hugging Face Hub. Finally, the script demonstrates generating responses by loading the fine-tuned model and providing an instruction-based input. This enables the creation of a specialized support chatbot model.
