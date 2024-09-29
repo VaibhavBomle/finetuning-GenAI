@@ -1,3 +1,4 @@
+# finetuning-GenAI
 # Steps:
 1.Install Required Packages: The script starts by installing necessary libraries such as datasets, transformers, trl, peft, etc.
 
